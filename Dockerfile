@@ -1,4 +1,4 @@
-FROM cashlez/alpine-glibc:latest
+FROM cashlez/alpine-glibc:1.0.0
 
 ENV JAVA_VERSION=8 \
     JAVA_UPDATE=161 \
